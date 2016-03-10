@@ -64,7 +64,7 @@ functions. For example, we could round the values to make them easier to read.
 
 > ## Challenge
 >
-> Write a query that returns The year, month, day, species_id and weight in mg
+> Write a query that returns the year, month, day, species_id and weight in mg
 
 ## Filtering
 
